@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: abagesh1904/solar-system-9:31-9def79470425a26d58094f52db3fbb62797b5d62
+      - image: abagesh1904/solar-system-9:32-031036a22e461c243194d03ef53671e341b53691
         name: solar-system
         ports: 
         - containerPort: 80
